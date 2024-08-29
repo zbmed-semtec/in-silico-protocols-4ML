@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: 'In-silico protocols for ML models'
+authors:
+- family-names: "Castro"
+  given-names: "Leyla Jael"
+  orcid: "https://orcid.org/0000-0003-3986-0510"
+- family-names: "Giraldo"
+  given-names: "Olga"
+  orcid: "https://orcid.org/0000-0003-2978-8922"
+- family-names: "Rebholz-Schuhmann"
+  given-names: "Dietrich"
+  orcid: "https://orcid.org/0000-0002-1018-0370"
+- family-names: "Solanki"
+  given-names: "Dhwani"
+  orcid: "https://orcid.org/0009-0004-1529-0095"
+
+title: " In-silico protocols for ML models"
+license: CC-BY-4.0
+url: "https://github.com/zbmed-semtec/in-silico-protocols-4ML"
