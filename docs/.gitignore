@@ -1,0 +1,15 @@
+# Sphinx build output
+docs/_build/
+
+# Python cache / environment stuff (optional but good)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
