@@ -1,3 +1,5 @@
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://zbmed-semtec.github.io/in-silico-protocols-4ML/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17048004.svg)](https://doi.org/10.5281/zenodo.17048004)
+
 # In-silico protocols for ML models
 <div align="justify">
 
