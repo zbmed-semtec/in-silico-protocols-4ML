@@ -42,24 +42,25 @@ All the categories under ML experiment is described with the associated metadata
 
 #### Experiment Documentation
 
-    -  Experiment ID : Unique identifier for the experiment.
-    -  Experiment Name : A short, descriptive name.
-    -  Date Started : Date when the experiment started.
-    -  Date Ended : Date when the experiment ended.
-    -  Objective : The goal or purpose of the experiment.
-    -  Reproducibility : A flag or status indicating whether the experiment is reproducible.
+   -  Experiment ID : Unique identifier for the experiment.
+   -  Experiment Name : A short, descriptive name.
+   -  Date Started : Date when the experiment started.
+   -  Date Ended : Date when the experiment ended.
+   -  Objective : The goal or purpose of the experiment.
+   -  Reproducibility : A flag or status indicating whether the experiment is reproducible.
 
 
-#### <b>Dataset </b>
-    -  Dataset Name : The name of the dataset used.
-    -  Dataset ID : A unique identifier for the dataset.
-    -  Version : The version of the dataset used in the experiment.
-    -  Data Source : The origin of the dataset (e.g., Kaggle, OpenML).
-    - datasetTypes: image, audio, text, tabular data, etc,
-    - dataStatistics: fetaures, distributionType
-    - conditionsOfAccess: Text
-    - isAccessibleForFree: Boolean
-    - license: URL
+#### Dataset 
+
+   - Dataset Name : The name of the dataset used.
+   -  Dataset ID : A unique identifier for the dataset.
+   -  Version : The version of the dataset used in the experiment.
+   -  Data Source : The origin of the dataset (e.g., Kaggle, OpenML).
+   - datasetTypes: image, audio, text, tabular data, etc,
+   - dataStatistics: fetaures, distributionType
+   - conditionsOfAccess: Text
+   - isAccessibleForFree: Boolean
+   - license: URL
 ```mermaid
 graph TD
   dataset[dataset] --> datasetTypes[datasetTypes]
