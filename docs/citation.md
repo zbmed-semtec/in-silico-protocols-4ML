@@ -7,6 +7,6 @@ The project outline was presented in the ISMB/ECCB 2025 conference in poster pre
 ```{raw} html
 <p style="margin: 1rem 0;">
   <a href="_static/poster.pdf" class="btn" target="_blank" rel="noopener">
-    Download the paper (PDF)
+    Download the poster (PDF)
   </a>
 </p>
