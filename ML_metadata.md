@@ -1,4 +1,4 @@
-# Insilico protocols for reproducibility of Machine learning(ML)
+# In-silico protocols for reproducibility of Machine learning(ML)
 
 <div align="justify">
   

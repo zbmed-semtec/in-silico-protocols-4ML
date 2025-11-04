@@ -2,7 +2,7 @@
 
 project = 'In-silico protocols for Machine Learning Reproducibility'
 copyright = 'Creative Commons Attribution 4.0 International Public License'
-author = 'Leyla Jael Castro, Olga Giraldo, Dhwani Solanki, Dietrich Rebholz-Schuhmann'
+author = 'Dhwani Solanki, Leyla Jael Castro, Dietrich Rebholz-Schuhmann'
 
 
 

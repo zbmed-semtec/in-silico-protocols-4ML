@@ -1,8 +1,8 @@
-# ML Meatdata schema for reproducibility
+# ML Metadata schema for reproducibility
 
 <div align="justify">
   
-This project aims to define metadata for ML life cycle.
+This project aims to define metadata covering the ML life cycle.
 
 The schema is prepared by literature review, different checklists, FAIR4ML vocabulary, CrossiantML for dataset, DOME recommendations, MLSchema and other MLOps resources. Currently, our ML metadata is still in the progress.  
 
