@@ -2,8 +2,14 @@
 In-silico protocols for Machine Learning Reproducibility
 ===============================================
 
-_Note: Our in-silico protocols aim to support machine and deep learning, here we use ML meaning both of them_
+<table>
+  <tr>
+    <th><img src="../images/nfdi4ds_logo_badge.png" alt="NFDI4DataScience"></th>
+    <th>An <a href="https://www.nfdi4datascience.de/" target="_blank">NFDI4DataScience</a> metadata service</th>
+  </tr>
+</table>
 
+_Note: Our in-silico protocols aim to support machine and deep learning, here we use ML meaning both of them_
 
 <div align="justify">
 
