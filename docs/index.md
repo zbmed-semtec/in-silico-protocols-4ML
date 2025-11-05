@@ -2,12 +2,9 @@
 In-silico protocols for Machine Learning Reproducibility
 ===============================================
 
-<table>
-  <tr>
-    <th><img src="./_images/nfdi4ds_logo_badge.png" alt="NFDI4DataScience"></th>
-    <th>An <a href="https://www.nfdi4datascience.de/" target="_blank">NFDI4DataScience</a> metadata service</th>
-  </tr>
-</table>
+|              |    |
+:-------------------------:|:-------------------------:
+![NFDI4DataScience](images/nfdi4ds_logo_badge.png)  |  An [NFDI4DataScience](https://www.nfdi4datascience.de/) metadata service
 
 _Note: Our in-silico protocols aim to support machine and deep learning, here we use ML meaning both of them_
 
