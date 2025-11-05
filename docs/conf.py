@@ -28,7 +28,7 @@ html_theme_options = {
     "home_page_in_toc": True,
     "path_to_docs": "docs",              # path relative to repo root
     "extra_footer": """
-      <div><table align="center" style="width:100%"><tr>
+      <div><hr/><table align="center" style="width:100%"><tr>
         <td><a href="https://www.zbmed.de/en/legal-notice" target="_blank">Legal notice</a></td>
         <td><a href="https://www.zbmed.de/en/disclaimer" target="_blank">Disclaimer</a></td>
         <td><a href="https://www.zbmed.de/en/privacy-policy" target="_blank">Privacy policy</a></td>
