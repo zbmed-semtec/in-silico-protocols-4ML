@@ -4,7 +4,7 @@ In-silico protocols for Machine Learning Reproducibility
 
 <table>
   <tr>
-    <th><img src="images/nfdi4ds_logo_badge.png" alt="NFDI4DataScience"></th>
+    <th><img src="./_images/nfdi4ds_logo_badge.png" alt="NFDI4DataScience"></th>
     <th>An <a href="https://www.nfdi4datascience.de/" target="_blank">NFDI4DataScience</a> metadata service</th>
   </tr>
 </table>
