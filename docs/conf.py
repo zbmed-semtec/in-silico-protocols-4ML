@@ -4,7 +4,7 @@ project = 'In-silico protocols for Machine Learning Reproducibility'
 copyright = 'Creative Commons Attribution 4.0 International Public License'
 author = 'Dhwani Solanki, Leyla Jael Castro, Dietrich Rebholz-Schuhmann'
 
-
+html_baseurl = 'https://zbmed-semtec.github.io/in-silico-protocols-4ML'
 
 # -- General configuration ---------------------------------------------------
 extensions = [
